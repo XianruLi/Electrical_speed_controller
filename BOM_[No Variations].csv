@@ -1,0 +1,89 @@
+﻿,Name,Description,Designator,Part Number,Price,Qty
+,TW-36-02-T-D-190-SM-A,"SMT Board Stacker, Vertical, -55 to 105 degC, 2 mm Pitch, 72-Pin, Male, RoHS","[NoValue], 1","Samtec TW-36-02-T-D-190-SM-A, ",12.76,2
+,SZMMBZ5245BLT1G,"Zener Diode, 15V V(Z), 5%, 0.225W, Silicon, Unidirectional, TO-236AB",15V zener,,,1
+,"1000pF, 2kV",CAP CER 1000PF 2000V X7R 1206 FT,C1,,,1
+,1uF,"Automotive Ceramic Capacitor, 1206, 1uF, 5%, X7R, 15%, 50V","C2, C3, C4, C5, C6, C17, C18","KYOCERA AVX 12065C105J4T2A, ",4.76,7
+,"GRM155R72A102KA01D, 1nF","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 1000pF, X7R, 15%, 10%, 100V","C7, C8, C9, C10, C11, C12, C58","Murata GRM155R72A102KA01D, ",0.15,7
+,Capacitor 680pF +/-20% 50V 0402,"Chip Capacitor, 680pF +/-20%, 50V, 0402, Thickness 0.33 mm","C11, C13, C15","Murata GRM15XR71H681KA86D, ",0.45,3
+,Capacitor 1µF +/-0.1% 25V 0603,"Chip Capacitor, 1µF +/-0.1%, 25V, 0603, Thickness 1 mm","C12, C14, C16","Samsung Electro-Mechanics CL10A105KA8NNNC, ",0.05,3
+,Capacitor 470pF +/-20% 50V 0402,"Chip Capacitor, 470pF +/-20%, 50V, 0402, Thickness 0.6 mm",C19,Yageo Group CC0402KRX7R9BB471,0.1,1
+,Capacitor 1uF +/- 10% 16V 0603,"Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)","C20, C70","KEMET C0603C105K4RACTU, ",34.4,2
+,10uF,CAP CER 10UF 50V X5R 1206,"C21, C22","Yageo Group CC1206KKX5R9BB106, ",0.86,2
+,Capacitor 0.1 uF +/- 5% 16 V 0402,"Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)","C23, C24, C25, C37, C38, C43, C46, C51, C54, C55, C56, C57, C60, C61, C62, C66, C67, C68, C69, C73","Murata GRM155R71C104JA88D, ",0.46,20
+,15pF,C0402 15 pF X8R 2.00% 50 V,"C26, C30","KEMET C0402C150G5HACAUTO, ",0.24,2
+,GCJ188R72A104KA01D,Cap Ceramic 0.1uF 100V X7R 10% Pad SMD 0603 Soft Termination 125C Automotive T/R,C27,Murata GCJ188R72A104KA01D,0.16,1
+,CL10B473KB8NNNC,"Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.047uF, Surface Mount, 0603",C29,Samsung Electro-Mechanics CL10B473KB8NNNC,0.1,1
+,C1608X7R1H103M080AA,Cap Ceramic 0.01uF 50V X7R 20% SMD 0603 125C T/R,C31,TDK C1608X7R1H103M080AA,0.1,1
+,100uF (MAL214699103E3),"MAL214699103E3 Aluminum Electrolytic Capacitor, 100 uF, 50 V, ± 20%, 1000 hours @ 125°C, Radial Can - SMD",C32,Vishay MAL214699103E3,0.664,1
+,22pF,22pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C33,,,1
+,"220uF *3, MAL215099103E3",CAP ALUM 220UF 20% 50V SMD,"C34, C35, C36, C64","Vishay MAL215099103E3, ",3.604,4
+,2.2uF,"Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 15% TC, 2.2uF, Surface Mount, 0603","C39, C71, C72","Murata GRT188R61H225KE13D, ",0.48,3
+,4.7uF,865060540001 WCAP-ASLL Aluminum Electrolytic Capacitors,"C40, C41, C53","Wurth Elektronik 865060540001, ",0.6,3
+,Capacitor 10nF +/-20% 50V 0402,"Chip Capacitor, 10nF +/-20%, 50V, 0402, Thickness 0.6 mm","C42, C44, C78, C79, C80, C81, C83, C84","Vishay VJ0402Y103KXACW1BC, ",0.11339,8
+,Capacitor 1nF +/-20% 50V 0402,"Chip Capacitor, 1nF +/-20%, 50V, 0402, Thickness 0.33 mm",C45,Wurth Elektronik 885012205061,0.007,1
+,47uF,Conductive Polymer Hybrid Aluminum Electrolytic Capacitors 47uF ±20% 25V RADIAL SMT 5x5.8mm,"C47, C48","Panasonic EEHZK1E470R, ",2.12373,2
+,15pF,50V 15pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,"C49, C50",,,2
+,47pF   (VJ0402A470FXACW1BC),,C52,Vishay VJ0402A470FXACW1BC,0.19,1
+,Capacitor 1µF +/-40% 50V 0603,"Chip Capacitor, 1µF +/-40%, 50V, 0603, Thickness 1 mm",C59,Samsung Electro-Mechanics CL10A105KB8NNNC,62.8,1
+,Capacitor 100 nF +/-10% 50 V 0603,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)","C63, C65, C82","Murata GRM188R71H104KA93D, ",0.19743,3
+,22uF,865090543005 WCAP-ASLU Aluminum Electrolytic Capacitors,"C74, C75","Wurth Elektronik 865090543005, ",0.54,2
+,5.1pF,CAP CER 5.1PF 50V NP0 0402,"C76, C77","KEMET C0402C519D5GAC7867, ",,2
+,470nF,CC0603 470 nF X7R 10.00% 50 V,C?,Yageo Group CC0603KRX7R9BB474,0.34,1
+,1pF,,C?,Vishay VJ0603A1R0CXAAC,0.8,1
+,Capacitor 470nF +/-40% 10V 0402,"Chip Capacitor, 470nF +/-40%, 10V, 0402, Thickness 0.6 mm",C_out,KYOCERA AVX 0402ZD474MAT2A,0.52,1
+,1uF,None,"CBYP1, CBYP2, CBYP3","TAIYO YUDEN UMK107BJ105KA-T, ",0.23,3
+,SMAJ30A,TVS DIODE 30V 48.4V SMA,D1,Bourns SMAJ30A,413.5,1
+,NRVBSS34FA,NRVBSS34FA Schottky Barrier Rectifier Diode 40V 3A 2-Pin SOD−123FL T/R,"D2, D3, D6","onsemi NRVBSS34FA, ",3.66,3
+,ESDALC6V1-1U2,TVS DIODE 3V ST0201,"D4, D7","STMicroelectronics ESDALC6V1-1U2, ",0.5,2
+,SZMMSZ3V3T1G,"Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel",D5,onsemi SZMMSZ3V3T1G,0.0386,1
+,Green LED,LSM0603453V LED SM 0603 3V -/1000/-mcd Green,D8,VCC LSM0603453V,0.3145,1
+,LED WHITE 0603,LED COOL WHITE 0603 SMD,"D9, D10, D11","Vishay VLMW1300-GS08, ",279.9,3
+,Diode,Diode,D_out,,,1
+,BLM15BD601SZ1D,"Chip Ferrite Bead, 0402, 600Ω @ 100MHz, 0.65Ω, 25%, 200mA",FB1,Murata BLM15BD601SZ1D,0.1,1
+,XT90PW-M,Socket; DC supply; XT90; male; PIN: 2; on PCBs; THT; Colour: yellow,J1,,,1
+,SBH11-PBPC-D05-ST-BK,10 Position Total Dual Row 2.54 mm Pitch Straight Male Shrouded Box Header,J2,,,1
+,2.2uH (IHDM1008BCEV2R2M3A),IHDM1008BCEV2R2M3A Inductor Power Wirewound 2.2uH 20% 100KHz Powdered Iron 70A 0.0004Ohm DCR RDL,"L1, L2","Vishay IHDM1008BCEV2R2M3A, ",24.32,2
+,6.8uH,"Commercial Inductors, High Saturation Series 6.8uH 4.5A 60mΩ 20%",L3,Vishay IHLP2525CZER6R8M01,939.6,1
+,Inductor,Inductor,L_out,,,1
+,HR913550A,,P1,,,1
+,BSZ024N04LS6ATMA1,MOSFET N-CH 40V 24A/40A TSDSON,Q1,Infineon BSZ024N04LS6ATMA1,1.11,1
+,IPT007N06NATMA1,"OptiMOS(TM) Power-Transistor, 60 V, 300 A, -55 to 175 degC, 8- Pin HSOF, RoHS, Tape and Reel","Q7, Q8, Q9, Q10, Q11, Q12","Infineon IPT007N06NATMA1, ",5908.4,6
+,15k,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 15kΩ 0402 Chip Resistor - Surface Mount ROHS,R1,,,1
+,49.9R,RES 49.9 OHM 0.1% 1/16W 0402,"R2, R3, R4, R5","Vishay TNPW040249R9BYEP, ",2.2,4
+,10k,CRGCQ 0402 10K 1%,"R6, R7, R8, R9, R11","TE Connectivity CRGCQ0402F10K, ",0.025,5
+,33R2J,33R 0.063W 5% 0402 (1005 Metric)  SMD,"R10, R12, R15, R23",,,4
+,0R,,"R13, R14, R25, R48","Vishay CRCW04020000Z0EDHP, ",0.06,4
+,Resistor 47K5 +/-1 % 0402 63 mW,"Chip Resistor, 47,5 kOhms, +/-1 %, 63 mW, -55 to 155 degC, 0402","R16, R17, R18, R42, R43, R44","Vishay CRCW040247K5FKED, ",29,6
+,ERJ-PA2F1002X,"SMD Chip Resistor, 10 kOhm, ± 1%, 200 mW, 0402 [1005 Metric], Thick Film, Anti-Surge","R20, R21, R22","Panasonic ERJ-PA2F1002X, ",0.57,3
+,1.5k,"1.5kΩ ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thin Film",R24,KOA Speer RN73R1ETTP1501F25,0.12,1
+,12.1k,12.1kΩ ±1% 0.1W Chip Resistor 0402 Flat Chip (Anti-Sulfuration) AEC-Q200 Qualified,R26,KOA Speer RK73H1ERTTP1212F,0.13,1
+,Resistor 0R 0402 63 mW,"Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)",R27,Vishay CRCW04020000Z0ED,30,1
+,AC0402FR-07270RL,RES 270Ω ±1% 0.063W 0402,"R28, R31","Yageo Group AC0402FR-07270RL, ",50,2
+,10KR2F,10K 0.063W 1% 0402 (1005 Metric)  SMD,"R29, R36, R53",,,3
+,0R,Anti-Sulfurated Chip Resistors Automotive Grade 0Ω 0402,"R30, R61, R62","Yageo Group AF0402JR-070RL, ",35,3
+,Resistor 15k +/-1% 0402 63 mW,"Chip Resistor, 15 KOhm, +/- 1%, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)",R32,Yageo Group RC0402FR-0715KL,,1
+,330R,"RES Thin Film,  330Ω, 0.5%, 0.1W, 25ppm/°C, 0603",R33,Venkel TFCR0603-16W-E-3300DT-1K,,1
+,100k,CRGP 0603 100K 1%,R34,TE Connectivity CRGP0603F100K,0.027,1
+,Resistor 10K  +/-1 % 0402 63 mW,"Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402","R35, R41","Vishay CRCW040210K0FKEE, ",0.006,2
+,CRCW040227K0FHEDP   27k,"RES Thick Film, 27kΩ, 1%, 0.063W, 50ppm/°C, 0402",R37,Vishay CRCW040227K0FHEDP,0.24,1
+,PNM0402E5000BST1,RES SMD 500 OHM 0.1% 1/20W 0402,R38,Vishay PNM0402E5000BST1,0.82,1
+,2K2 5% 0402(1005),2K2 0.063W 5% 0402 (1005 Metric)  SMD,R39,Bourns CR0402-JW-222GLF,0.05603,1
+,CR0402AFX-2001GLF,AEC-Q200 Compliant Chip Resistors 0402 2kΩ 0.063W 1% 100ppm/°C,R40,Bourns CR0402AFX-2001GLF,0.1,1
+,Resistor 10k +/-1% 0402 63 mW,"Chip Resistor, 10 KOhm, +/- 1%, 63 mW, -55 to 155 degC, 0402 (1005 Metric)","R45, R46, R47, R69, R70, R71","Yageo Group RC0402FR-0710KL, ",0.11072,6
+,1KR2J,1K 0.063W 5% 0402 (1005 Metric)  SMD,"R49, R56, R57, R58",,,4
+,2D2KR2J,2K2 0.063W 5% 0402 (1005 Metric)  SMD,"R50, R51, R52, R54, R55, R59, R60",,,7
+,10R,Anti-Sulfurated Chip Resistors Automotive Grade 10Ω 1% 200ppm/°C 0402,"R63, R64, R65, R66, R67, R68","Yageo Group AF0402FR-0710RL, ",92,6
+,10k,RES SMD 10KΩ 0.5% 1/16W 0603,"R_rcl, R_rt/sd, R?","TE Connectivity / AMP 2-1614882-6, ",0.3,3
+,Resistor,Resistor,"R_fb1, R_fb2, R_out",,,3
+,Resistor 1k +/-1% 0402 100 mW,"Chip Resistor, 1 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric)","RSEN1, RSEN2, RSEN3","Panasonic ERJ-2RKF1001X, ",0.18,3
+,TL1015AF160QG,SWITCH TACTILE SPST-NO 0.05A 12V,"SW1, SW2","E-Switch TL1015AF160QG, ",0.9,2
+,LMV321IDBVR,IC OPAMP GP 1 CIRCUIT SOT23-5,"U1, U2, U3","Texas Instruments LMV321IDBVR, ",1.14,3
+,A1324LLHLT-T,"Low Noise, Linear Hall Effect Sensor IC with Analog Output, 4.5 to 5.5 V, -40 to 150 degC, 3-Pin SOT23, RoHS, Tape and Reel","U3, U4, U5","Allegro MicroSystems A1324LLHLT-T, ",4.14,3
+,DRV8353RHRGZT,IC MTR DRV MULTIPHAS 6-95V 48QFN,U6,Texas Instruments DRV8353RHRGZT,6.77,1
+,LAN8742A-CZ-TR,IC TRANSCEIVER 1/1 24SQFN,U7,Microchip LAN8742A-CZ-TR,1.45,1
+,STM32H743ZIT6,IC MCU 32BIT 2MB FLASH 144LQFP,U8,STMicroelectronics STM32H743ZIT6,8.98,1
+,TPS54331DG4,"Buck Step Down Regulator with 3.5 to 28 V Input and 0.8 to 25 V Output, -40 to 150 degC, 8-Pin SOIC (D), Green (RoHS & no Sb/Br)",U9,Texas Instruments TPS54331DG4,2.98,1
+,AMS1117-3.3,"LDO Voltage Regulators 1A, 3.3V",U10,Advanced Monolithic Systems AMS1117-3.3,,1
+,8Mhz,8MHz Surface Mount Crystal 12pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS,X1,,,1
+,25Mhz,25MHz Surface Mount Crystal 12pF ±10ppm ±20ppm SMD3225-4P Crystals ROHS,X2,,,1
+,NX3215SA-32.768K-STD-MUA-14,"NX3215SA-32.768K-STD-MUA-14 Parallel - Fundamental Quartz Crystal, 0.032768MHz Nom",Y1,NDK NX3215SA-32.768K-STD-MUA-14,0.68,1
