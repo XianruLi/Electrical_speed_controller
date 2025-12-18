@@ -80,6 +80,7 @@ See:
 ├── PCB_Assembly/ # Assembly drawings, board views, reference images
 
 ├── BOM/ # Bill of Materials (manufacturer + part numbers)
+
 ├── schematics/ # PDF schematics for review and debugging
 
 ├── gerber/ # Fabrication-ready Gerber files
