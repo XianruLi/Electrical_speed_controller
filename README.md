@@ -1,5 +1,5 @@
 # Electrical_speed_controller
-ESC module made for school collab project
+ESC module made for university collab project
 
 # ESC Project – Current Status Overview
 
